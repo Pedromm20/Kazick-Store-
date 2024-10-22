@@ -556,6 +556,7 @@ section {
 .social-icons {
     display: flex;
     gap: 15px;
+    cursor: pointer;
 }
 
 .social-icons a img {
