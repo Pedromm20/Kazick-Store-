@@ -1,0 +1,11 @@
+Model Information:
+* title:	Karambit INK
+* source:	https://sketchfab.com/3d-models/karambit-ink-1ec5b274e8124c91ab53b9a5d0663431
+* author:	DNKira (https://sketchfab.com/DNKira)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Karambit INK" (https://sketchfab.com/3d-models/karambit-ink-1ec5b274e8124c91ab53b9a5d0663431) by DNKira (https://sketchfab.com/DNKira) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
